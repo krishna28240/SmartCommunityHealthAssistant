@@ -1,8 +1,11 @@
-Smart Community Health Assistant
+# Smart Community Health Assistant
 
 Final project for the Building AI course
 
-Summary
+## Summary
+
+An AI-based assistant that helps community members track local health alerts...
+
 
 An AI-based assistant that helps community members track local health alerts, symptoms, and resources. It analyzes public health data to give personalized advice and early warnings.
 Building AI course project.
